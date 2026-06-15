@@ -1,8 +1,4 @@
-# support-ticket-trend-analysis
-
-## Analysis of IT support ticket trends to identify recurring issues and recommend training improvements
-
-# Support Ticket Trend Analysis
+# Support-ticket-trend-analysis
 
 ## Overview
 Analysis of 35 sample IT support tickets to identify recurring 
